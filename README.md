@@ -27,5 +27,6 @@ The objective of an Uber dashboard project is typically:
 * Presentation & Documentation: Clearly documenting your code, process, and findings in README files, markdown cells, or dashboard annotations.
 
 * <img width="1164" height="650" alt="Screenshot 2025-11-26 190205" src="https://github.com/user-attachments/assets/3273e91b-b438-4298-85f5-1d791f1a022c" />
-<img width="1164" height="650" alt="Screenshot 2025-11-26 190205" src="https://github.com/user-attachments/assets/362f26c0-eb95-42ee-bd9e-05845dd5e735" />
+<img width="1129" height="582" alt="Screenshot 2025-11-26 190229" src="https://github.com/user-attachments/assets/b1e917a1-551e-4448-9c90-e617cbb5d354" />
+
 
